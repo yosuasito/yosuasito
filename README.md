@@ -1,3 +1,5 @@
+<p align="center"><img src="https://user-images.githubusercontent.com/20989027/233691347-699998b9-5f62-4db6-910c-6fc6f6207d6c.png" alt="My banner" width="800" height="200"/></p>
+
 <p>I'm a self-taught passionate developer from Indonesia.</p>
 
 <p><b>About me</b></p>
